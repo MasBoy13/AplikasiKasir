@@ -27,7 +27,7 @@ Struktur package dan class:
     └── RestaurantService.java</pre>
 <h3>Contoh Penggunaan Fitur Utama</h3>
 <h4>1. Melihat Daftar Menu</h4>
-<img width="936" height="482" alt="Screenshot 2025-10-07 091318" src="https://github.com/user-attachments/assets/cbdf3d55-970e-4e41-bbae-f37a7a96a005" />
+<img width="300" height="200" alt="Screenshot 2025-10-07 091318" src="https://github.com/user-attachments/assets/cbdf3d55-970e-4e41-bbae-f37a7a96a005" />
 <h4>2. Menambah Pesanan</h4>
 <img width="300" height="200" alt="Screenshot 2025-10-03 233947" src="https://github.com/user-attachments/assets/841a7c68-e8b5-4f02-b7dd-7523afa473ce" />
 <h4>3. Melihat Pesanan</h4>
