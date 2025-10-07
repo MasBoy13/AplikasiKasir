@@ -1,5 +1,5 @@
-<h1>Aplikasi Kasir Restaurant</h1>
-<div align="Justify">Aplikasi Kasir Restaurant adalah sebuah program berbasis Java yang dirancang untuk membantu simulasi proses transaksi di restaurant.</div>
+<h1>Aplikasi Kasir</h1>
+<div align="Justify">Aplikasi Kasir Restaurant adalah sebuah program berbasis Java yang dirancang untuk membantu simulasi proses transaksi di restaurant.</div> 
 <h3>Penjelasan Kasir Restaurant</h3>
 <div align="Justify">Aplikasi ini mengimplementasikan berbagai konsep Pemrograman Berorientasi Objek (PBO) secara lengkap, mulai dari penggunaan class, object, constructor, method, variabel, konstanta, array, looping, kondisional, hingga exception handling.
 Dengan menggunakan aplikasi ini, seorang kasir dapat:</div>
