@@ -36,4 +36,4 @@ Struktur package dan class:
 <h4>0. Keluar</h4>
 <img width="510" height="203" alt="Screenshot 2025-10-08 100609" src="https://github.com/user-attachments/assets/3f30dd0f-5e76-487f-9b2d-4700fde72317" />
 <h3>Link video Youtube</h3>
-Link:
+Link:https://youtu.be/gNyl1FNWd3Y?feature=shared
